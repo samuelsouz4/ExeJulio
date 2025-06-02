@@ -1,2 +1,3 @@
 # ExeJulio
 Lista de exercícios python para entrega.
+Aqui jas Exercicios para entrega para o professor julio...
